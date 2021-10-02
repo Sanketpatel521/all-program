@@ -3,7 +3,7 @@ console.log(12 / 2);
 
 console.log(3 / 2);
 // expected output: 1.5
-
+//jaba jaba jaba
 console.log(6 / '3');
 // expected output: 2
 
