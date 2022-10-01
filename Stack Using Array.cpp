@@ -80,6 +80,7 @@ int main()
     s.push(6);
     s.push(7);
     s.push(8);
+    s.push(18);
     cout<<"Size of Stack :- "<<s.Size()<<endl;
     cout<<s.top()<<endl;
     s.pop();
